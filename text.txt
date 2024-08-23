@@ -8,9 +8,9 @@ versya saxranit anenq eli
 dnum vor sax ani
 6) mi hate commit xz xi 
 7) amen popoxutyunic heto add enq anum vor saxranit ylllni popoxutyunnery 
-7)git push - anum enq vor qci github nshum enq te vor repoin pthanum 
+8)git push - anum enq vor qci github nshum enq te vor repoin pthanum 
 u nsshum enq te vor brenchin kpnelu mer mot gllxvorna aysinqn origin-i mastery
-
+9)git commit aneluc araj ampayman git add . enq anum heto el git push origin master
 
 
 
