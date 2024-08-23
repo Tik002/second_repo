@@ -6,7 +6,7 @@ stexceluca tali) - kap enq hastatum githubi het
 versya saxranit anenq eli
 5)git add - konkret asum enq vor popoxvac faylery saxranit ani kam . enq 
 dnum vor sax ani
-
+6) mi hate commit xz xi 
 
 
 
